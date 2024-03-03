@@ -1,0 +1,18 @@
+{
+  "name": "vjs-rre-theme",
+  "version": "1.0.0",
+  "description": "This is the custom videojs theme for Rondon Real Estate",
+  "main": ".rre video code.css",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [ vjs-rre-theme ],
+  [ vjs-rre-skin ],
+  [ videojs ]
+  "author": "",
+  "license": "MIT"
+} "repository": {
+  "git+https": null, //github.com/RondonRealEstate/vjs-rre-theme.package.json.git"
+  "type": "git",
+  "url": "git+https://github.com/RondonRealEstate/vjs-rre-theme.package.json.git"
+},
